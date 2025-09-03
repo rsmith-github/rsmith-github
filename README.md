@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <p>Profile Views</p>
-  <img src="https://profile-counter.glitch.me/RemingtonSmith/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/rsmith-github/count.svg" alt="Visitor's Count" />
 </div>
 <h1 align="center">Hi There! 👋</h1>
 <h2 align="center">I'm Remington Smith</h2>
@@ -10,7 +10,7 @@
 
 ### 🚀 Founding Engineer & CTO passionate about building scalable, high-performance web applications that drive real business impact.
 
-Currently architecting innovative solutions at **Kaipa**, where I've engineered systems that processed **$65,000+ in ticket sales** and serve **1500+ guest capacity** venues. I specialize in transforming complex operational needs into elegant technical solutions.
+Currently working on **Kaipa**, where I'm building an exciting new ticketing and events management platform from the ground up!
 
 ---
 
@@ -19,7 +19,6 @@ Currently architecting innovative solutions at **Kaipa**, where I've engineered 
 - 🔭 **Currently building:** Scalable ticketing and table-management systems at [Kaipa](https://kaipa.io)
 - 🌱 **Learning:** Advanced DevOps practices and AI integration
 - 💬 **Ask me about:** Django, React.js, AWS, system architecture, or scaling applications
-- 🌍 **Languages:** English, Mandarin, Thai (Fluent) | Swedish (Intermediate) | Arabic (Beginner)
 - 📫 **Reach me:** rsmith.git@gmail.com
 
 <br>
@@ -53,10 +52,9 @@ Currently architecting innovative solutions at **Kaipa**, where I've engineered 
 ## 💼 Recent Achievements
 
 🎯 **$65,000+ Revenue Generated** - Built ticketing system for 3000+ tickets across UK, Malaysia & Japan  
-⚡ **60M+ Requests Handled** - Architected systems serving 600k+ users with auto-scaling  
+⚡ **60M+ Requests Handled** - Architected systems serving 600k+ users
 💰 **$3,500/month Saved** - Replaced third-party services with custom in-house solutions  
 🏗️ **2-Month MVP Delivery** - Full lifecycle management from ideation to production  
-📈 **100% Test Coverage** - Implemented comprehensive testing for payment modules  
 
 ---
 
@@ -67,18 +65,6 @@ Currently architecting innovative solutions at **Kaipa**, where I've engineered 
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=RemingtonSmith&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Remington's Streak Stats" />
   <br>
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=RemingtonSmith&theme=transparent&layout=compact&hide=css&langs_count=10&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemingtonSmith/RemingtonSmith/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RemingtonSmith/RemingtonSmith/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RemingtonSmith/RemingtonSmith/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
