@@ -1,8 +1,12 @@
 # Hi there! 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Remington+Smith!;Founding+Engineer+%26+CTO;Full-Stack+Developer;" />
-</h1>
+<div align="center"> 
+  <p>Profile Views</p>
+  <img src="https://profile-counter.glitch.me/RemingtonSmith/count.svg" alt="Visitor's Count" />
+</div>
+<h1 align="center">Hi There! 👋</h1>
+<h2 align="center">I'm Remington Smith</h2>
+<h3 align="center">Founding Engineer & CTO | Full-Stack Developer</h3>
 
 ### 🚀 Founding Engineer & CTO passionate about building scalable, high-performance web applications that drive real business impact.
 
