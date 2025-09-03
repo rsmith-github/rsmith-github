@@ -1,12 +1,8 @@
 # Hi there! 👋
 
-<div align="center"> 
-  <p>Profile Views</p>
-  <img src="https://profile-counter.glitch.me/rsmith-github/count.svg" alt="Visitor's Count" />
-</div>
-<h1 align="center">Hi There! 👋</h1>
-<h2 align="center">I'm Remington Smith</h2>
-<h3 align="center">Founding Engineer & CTO | Full-Stack Developer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Remington+Smith!;" />
+</h1>
 
 ### 🚀 Founding Engineer & CTO passionate about building scalable, high-performance web applications that drive real business impact.
 
@@ -61,13 +57,25 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=RemingtonSmith&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Remington's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=RemingtonSmith&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Remington's Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=rsmith-github&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Remington's GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rsmith-github&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Remington's Streak Stats" />
   <br>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=RemingtonSmith&theme=transparent&layout=compact&hide=css&langs_count=10&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsmith-github&theme=transparent&layout=compact&hide=css&langs_count=10&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
 </div>
 
 ---
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsmith-github/rsmith-github/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rsmith-github/rsmith-github/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rsmith-github/rsmith-github/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+<hr>
+
 
 ## 🎓 Education & Certifications
 
@@ -85,5 +93,5 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
 I'm always excited to collaborate on innovative projects or discuss technology! Whether you're looking to build something amazing or just want to chat about the latest in web development, feel free to reach out.
 
 <div align="center">
-  <i>⭐️ From [RemingtonSmith](https://github.com/RemingtonSmith)</i>
+  <i>⭐️ From [rsmith-github](https://github.com/rsmith-github)</i>
 </div>
