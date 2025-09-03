@@ -1,10 +1,5 @@
 # Hi there! 👋
 
-<div align="center"> 
-  <p>Profile Views</p>
-  <img src="https://profile-counter.glitch.me/RemingtonSmith/count.svg" alt="Visitor's Count" />
-</div>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Remington+Smith!;Founding+Engineer+%26+CTO;Full-Stack+Developer;" />
 </h1>
