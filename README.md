@@ -56,8 +56,6 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=rsmith-github&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Remington's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rsmith-github&theme=transparent&count_private=true&border_radius=10&locale=en" alt="rsmith-github's" />
-  <br>
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsmith-github&theme=transparent&layout=compact&hide=css&langs_count=10&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
 </div>
 
