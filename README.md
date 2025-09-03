@@ -100,11 +100,5 @@ Currently architecting innovative solutions at **Kaipa**, where I've engineered 
 I'm always excited to collaborate on innovative projects or discuss technology! Whether you're looking to build something amazing or just want to chat about the latest in web development, feel free to reach out.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RemingtonSmith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
   <i>⭐️ From [RemingtonSmith](https://github.com/RemingtonSmith)</i>
 </div>
