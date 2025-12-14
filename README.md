@@ -45,7 +45,7 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
 
 ## 💼 Recent Achievements
 
-🎯 **$65,000+ Revenue Generated** - Built ticketing system for 3000+ tickets across UK, Malaysia & Japan  
+🎯 **$120,000+ Revenue Generated** - Built ticketing system for 10,000+ tickets across UK, Malaysia & Japan
 ⚡ **60M+ Requests Handled** - Architected systems serving 600k+ users
 💰 **$3,500/month Saved** - Replaced third-party services with custom in-house solutions  
 🏗️ **2-Month MVP Delivery** - Full lifecycle management from ideation to production  
