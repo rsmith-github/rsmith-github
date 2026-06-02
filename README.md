@@ -38,8 +38,20 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
   <br>
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,mongodb,postgres,redis,graphql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,figma,vscode,postman,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,vscode,postman,github" />
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="48" />
 </p>
+
+---
+
+## 👨🏻‍💻 Recent Projects I've Worked On
+
+- [1 Club](https://www.1club.london)
+- [Unfold The Hits](https://www.unfoldthehits.com)
+- [Kaipa](https://kaipa.io)
+- [Hape Labs Shopify Store](https://shop.hapelabs.com)
+- [Space Station NYC](https://www.ilovespacestation.com)
+- [Hape](https://index.hape.io)
 
 ---
 
@@ -48,7 +60,8 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
 - **$120,000+ Revenue Generated** - Built ticketing system for 10,000+ tickets across UK, Malaysia & Japan
 - **60M+ Requests Handled** - Architected systems serving 600k+ users
 - **$3,500/month Saved** - Replaced third-party services with custom in-house solutions  
-- **2-Month MVP Delivery** - Full lifecycle management from ideation to production  
+- **2-Month MVP Delivery** - Full lifecycle management from ideation to production
+- **Custom Shopify Widget** - Custom shopify widget built from scratch for community token holder perks and discounts
 
 ---
 
@@ -79,6 +92,6 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
 
 I'm always excited to collaborate on innovative projects or discuss technology! Whether you're looking to build something amazing or just want to chat about the latest in web development, feel free to reach out.
 
-<div align="center">
-  <i>⭐️ From [rsmith-github](https://github.com/rsmith-github)</i>
-</div>
+
+  ⭐️ From [rsmith-github](https://github.com/rsmith-github)
+
