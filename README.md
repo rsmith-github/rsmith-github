@@ -44,7 +44,7 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
 
 ---
 
-## 👨🏻‍💻 Recent Projects I've Worked On
+## 👨🏻‍💻 Recent Projects
 
 - [1 Club](https://www.1club.london)
 - [Unfold The Hits](https://www.unfoldthehits.com)
@@ -52,6 +52,7 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
 - [Hape Labs Shopify Store](https://shop.hapelabs.com)
 - [Space Station NYC](https://www.ilovespacestation.com)
 - [Hape](https://index.hape.io)
+- [Pigeon Chat](https://www.pigeon.chat)
 
 ---
 
