@@ -13,7 +13,7 @@ Currently working on **Kaipa**, where I'm building an exciting new ticketing and
 - 🔭 **Currently building:** Scalable ticketing and table-management systems at [Kaipa](https://kaipa.io)
 - 🌱 **Learning:** Advanced DevOps practices and AI integration
 - 💬 **Ask me about:** Django, React.js, AWS, system architecture, or scaling applications
-- 📫 **Reach me:** rsmith.git@gmail.com
+- 📫 **Reach me:** remiwsmith@gmail.com
 
 <br>
 
